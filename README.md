@@ -1,2 +1,2 @@
 # json2frontend-examples
-Json2code usage examples
+Json2frontend usage examples
