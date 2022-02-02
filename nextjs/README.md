@@ -1,8 +1,10 @@
-# json2frontend - CLI example
+# json2frontend - Nextjs example
 
 ## Installation
 
-npm install json2frontend
+```bash
+npm install -g json2frontend
+```
 
 ## Usage
 

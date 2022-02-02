@@ -2,9 +2,13 @@
 
 ## Installation
 
+```bash
 npm install -g json2frontend
+```
 
 ## Usage
 
+```bash
 chmod +x index.js
 ./index.js
+```

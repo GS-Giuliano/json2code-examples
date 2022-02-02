@@ -1,8 +1,10 @@
-# json2frontend - CLI example
+# json2frontend - React example
 
 ## Installation
 
-npm install json2frontend
+```bash
+npm install -g json2frontend
+```
 
 ## Usage
 
